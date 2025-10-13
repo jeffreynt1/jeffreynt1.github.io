@@ -57,3 +57,7 @@ defaults:
 collections:
   posts:
     output: true
+
+include:
+  - _pages
+
