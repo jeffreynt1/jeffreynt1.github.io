@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "Professional Services"
+    url: /services/
+  - title: "Contact Information"
+    url: /contact/
+  - title: "Link"
+    url: /links/
