@@ -1,9 +1,12 @@
 ---
 title: "Brief Bio"
 permalink: /
+layout: single
+author_profile: true
 ---
 
-I am a researcher focusing on the intersection of **artificial intelligence (AI)** and **computational biology/pharmacology**. My work spans compound–protein interaction (CPI/DTI) prediction, multi‑model ensembling/meta‑learning, and large‑scale data engineering for drug discovery.
+I am a researcher focusing on the intersection of **artificial intelligence (AI)** and **computational biology/pharmacology**.  
+My work spans compound–protein interaction (CPI/DTI) prediction, multi‑model ensembling/meta‑learning, and large‑scale data engineering for drug discovery.
 
 ## Timeline
 - **2023 – Present**: Master's student, Zhejiang University (Joint training)  
