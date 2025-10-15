@@ -1,25 +1,23 @@
+main:
+  - title: "Publications"
+    url: /publications/
+  - title: "Professional Services"
+    url: /services/
+  - title: "Contact Information"
+    url: /contact/
+  - title: "Link"
+    url: /links/
+
+
 # main:
 #   - title: "Home"
 #     url: /
 #   - title: "Publications"
-#     url: /publications/
+#     url: "{{ '/publications/' | relative_url }}"
 #   - title: "Professional Services"
-#     url: /services/
+#     url: "{{ '/services/' | relative_url }}"
 #   - title: "Contact Information"
-#     url: /contact/
+#     url: "{{ '/contact/' | relative_url }}"
 #   - title: "Link"
-#     url: /links/
-
-
-main:
-  - title: "Home"
-    url: /
-  - title: "Publications"
-    url: "{{ '/publications/' | relative_url }}"
-  - title: "Professional Services"
-    url: "{{ '/services/' | relative_url }}"
-  - title: "Contact Information"
-    url: "{{ '/contact/' | relative_url }}"
-  - title: "Link"
-    url: "{{ '/links/' | relative_url }}"
+#     url: "{{ '/links/' | relative_url }}"
 
