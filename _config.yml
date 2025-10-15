@@ -58,6 +58,9 @@ collections:
   posts:
     output: true
 
+sass:
+  style: compressed
+  
 include:
   - _pages
 
